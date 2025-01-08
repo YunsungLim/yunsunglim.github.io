@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate @ <a href='https://cbe.kaist.ac.kr/'>Department of Chemical and Biomolecular Engineering</a>, <a href='https://www.kaist.ac.kr/en/'>KAIST</a>, South Korea
 
 profile:
   align: right
