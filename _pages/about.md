@@ -12,7 +12,7 @@ profile:
     <p>Applied Engineering Bldg. (W1-3), 291, Daehak-ro, Yuseong-gu</p>
     <p>Daejeon, South Korea 34141</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
