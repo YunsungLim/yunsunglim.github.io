@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate @ <a href='https://cbe.kaist.ac.kr/'>Department of Chemical and Biomolecular Engineering</a>, <a href='https://www.kaist.ac.kr/en/'>KAIST</a>, South Korea
+subtitle: PhD candidate @ <a href='https://cbe.kaist.ac.kr/'>Department of Chemical and Biomolecular Engineering</a> in <a href='https://www.kaist.ac.kr/en/'>KAIST</a>, South Korea
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Applied Engineering Bldg. (W1), 291, Daehak-ro, Yuseong-gu</p>
+    <p>Applied Engineering Bldg. (W1-3), 291, Daehak-ro, Yuseong-gu</p>
     <p>Daejeon, South Korea 34141</p>
 
 news: true # includes a list of news items
