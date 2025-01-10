@@ -11,22 +11,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD Candidate in Chemical and Biomolecular Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: 2022.03 - 2025.08 (Expected)
+      year: 2022.03-
       description:
         - Advised by Prof. Dr. Jihan Kim
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+
+    - title: MS in Chemical Biomolecular Engineering
+      institution: Korea Advanced Institute of Sceince and Technology (KAIST), Daejeon, South Korea
+      year: 2020.03-2022.02
       description:
-        - Description 1.
-        - Description 2.
+        - Advised by Prof. Dr. Jihan Kim
+        - Thesis title is "Finely tuned inverse design of metal-organic frameworks for selective xenon adsorption"
+
+    - title: BS in Chemical and Biomolecular Engineering
+      institution: Korea Advanced Institute of Sceince and Technology (KAIST), Daejeon, South Korea
+      year: 2016.03-2020.02
+      description:
+        - With honors (Summa Cum Laude, 4.07/4.3)
 
 - title: Experience
   type: time_table
