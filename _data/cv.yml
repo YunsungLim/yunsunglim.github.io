@@ -2,20 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yunsung Lim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th September 1997
     - name: Languages
-      value: English, German
+      value: Korean (native), English (professional)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
+      year: 2022.03 - 2025.08 (Expected)
       description:
-        - Description 1.
+        - Advised by Prof. Dr. Jihan Kim
         - Description 2.
         - title: Description 3.
           contents:
